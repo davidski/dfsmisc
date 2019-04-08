@@ -9,6 +9,9 @@
 
 **dfsmisc** provides some basic RStudio addins for my personal use.
 
+Inspired by Hao Zhu’s RStudio::conf 2019
+[talk](https://haozhu233.github.io/rstudioconf2019_addin_talk/#1).
+
   - Theme switching
 
 ## Installation
