@@ -18,3 +18,5 @@ Suggests:
     emo
 Remotes:
     hadley/emo
+URL: https://github.com/davidski/dfsmisc
+BugReports: https://github.com/davidski/dfsmisc/issues
