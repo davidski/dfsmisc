@@ -1,0 +1,9 @@
+Name: Set Light Theme
+Description: Set RStudio to a light theme for presentation.
+Binding: light_mode
+Interactive: false
+
+Name: Set Dark Theme
+Description: Set RStudio to a light theme for presentation.
+Binding: dark_mode
+Interactive: false
