@@ -3,7 +3,7 @@ Description: Set RStudio to a light theme for presentation.
 Binding: light_mode
 Interactive: false
 
-Name: 🌘S et Dark Theme
-Description: Set RStudio to a light theme for presentation.
+Name: 🌘 Set Dark Theme
+Description: Set RStudio to a dark theme for l33t coding.
 Binding: dark_mode
 Interactive: false
